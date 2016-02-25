@@ -3,4 +3,8 @@
 __global void santty (int * a)
 {
 int index= threadIdx.x
+int index1=blockIdx.x;
+}
+__global__ void guy (int *b)
+{
 }

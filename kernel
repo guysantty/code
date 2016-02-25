@@ -1,0 +1,6 @@
+#include <iostream>
+
+__global void santty (int * a)
+{
+int index= threadIdx.x
+}

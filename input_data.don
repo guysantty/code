@@ -1,0 +1,7 @@
+3 choice
+200     NX
+200    NX1
+2500    vmin
+1.0d-4  DELTAT
+2       mg
+10      NREC
